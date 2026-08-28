@@ -2,6 +2,6 @@
 
 Data Engineer
 
-Python primarily
-C++
+Python primarily;
+C++;
 PostgreS
