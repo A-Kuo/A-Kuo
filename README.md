@@ -1,7 +1,9 @@
 ## Austin (A-Kuo)
 
-Data Engineer
+Data Engineering
+ML
 
-Python primarily;
-C++;
-PostgreS
+Python
+C++
+
+Please contribute to my repositories if you find them interesting.
