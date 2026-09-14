@@ -4,6 +4,6 @@ Data Engineering
 ML
 
 Python
-C++
+SQL
 
-Please contribute to my repositories if you find them interesting.
+Feel free to improve my repositories if you find them interesting.
