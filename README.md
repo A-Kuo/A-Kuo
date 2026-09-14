@@ -1,4 +1,4 @@
-## Austin (A-Kuo)
+## Austin Kuo
 
 Data Engineering
 ML
