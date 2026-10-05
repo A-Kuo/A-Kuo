@@ -1,9 +1,5 @@
 ## Austin Kuo
 
-Data Engineering \\
-ML
+Data Science & Economics at UW Madison
 
-Python
-SQL
-
-Feel free to PR  my repositories if you find them interesting.
+Data Science team at Tekmir Solutions LLC
