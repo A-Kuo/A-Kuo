@@ -1,9 +1,9 @@
 ## Austin Kuo
 
-Data Engineering
+Data Engineering \\
 ML
 
 Python
 SQL
 
-Feel free to improve my repositories if you find them interesting.
+Feel free to PR  my repositories if you find them interesting.
